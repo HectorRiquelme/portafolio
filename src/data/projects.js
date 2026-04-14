@@ -27,7 +27,7 @@ export const projects = [
     ],
     stack: ["Node.js", "Express", "SQLite", "node-forge", "pdfkit", "bwip-js", "XML"],
     gradient: "from-cyan-600 to-blue-700",
-    github: "https://github.com/HectorRiquelme/integraciones-chilenas",
+    github: "https://github.com/HectorRiquelme/pagos-chile-facturacion-sii",
   },
   {
     id: 2,
@@ -47,7 +47,7 @@ export const projects = [
     ],
     stack: ["Node.js", "Express", "React", "Vite", "Tailwind", "SQLite"],
     gradient: "from-blue-600 to-indigo-700",
-    github: "https://github.com/HectorRiquelme/integraciones-chilenas",
+    github: "https://github.com/HectorRiquelme/pagos-chile-transbank-webpay",
   },
   {
     id: 3,
@@ -67,7 +67,7 @@ export const projects = [
     ],
     stack: ["Python", "FastAPI", "React", "Vite", "Tailwind", "SQLite", "APScheduler"],
     gradient: "from-emerald-600 to-teal-700",
-    github: "https://github.com/HectorRiquelme/integraciones-chilenas",
+    github: "https://github.com/HectorRiquelme/pagos-chile-khipu",
   },
   {
     id: 4,
@@ -87,7 +87,7 @@ export const projects = [
     ],
     stack: ["PHP", "WordPress", "WooCommerce", "CSS", "JavaScript"],
     gradient: "from-orange-500 to-red-600",
-    github: "https://github.com/HectorRiquelme/shopify-woocommerce",
+    github: "https://github.com/HectorRiquelme/ecommerce-woocommerce-theme-deportiva",
   },
   {
     id: 5,
@@ -108,7 +108,7 @@ export const projects = [
     ],
     stack: ["Shopify Liquid", "HTML", "CSS", "JavaScript"],
     gradient: "from-gray-600 to-gray-800",
-    github: "https://github.com/HectorRiquelme/shopify-woocommerce",
+    github: "https://github.com/HectorRiquelme/ecommerce-shopify-tema-minimalista",
   },
   {
     id: 6,
@@ -128,7 +128,7 @@ export const projects = [
     ],
     stack: ["PHP", "WordPress", "WooCommerce", "JavaScript", "CSV"],
     gradient: "from-purple-600 to-pink-600",
-    github: "https://github.com/HectorRiquelme/shopify-woocommerce",
+    github: "https://github.com/HectorRiquelme/ecommerce-woocommerce-plugin-despacho",
   },
   {
     id: 7,
@@ -148,7 +148,7 @@ export const projects = [
     ],
     stack: ["Node.js", "Express", "SQLite", "HubSpot API mock"],
     gradient: "from-orange-500 to-amber-600",
-    github: "https://github.com/HectorRiquelme/integraciones-crm",
+    github: "https://github.com/HectorRiquelme/crm-hubspot-woocommerce-sync",
   },
   {
     id: 8,
@@ -168,7 +168,7 @@ export const projects = [
     ],
     stack: ["Node.js", "Express", "React", "SQLite"],
     gradient: "from-green-500 to-emerald-600",
-    github: "https://github.com/HectorRiquelme/integraciones-crm",
+    github: "https://github.com/HectorRiquelme/crm-gohighlevel-centro-salud",
   },
   {
     id: 9,
@@ -188,7 +188,7 @@ export const projects = [
     ],
     stack: ["Python", "FastAPI", "APScheduler", "CSV", "Jinja2"],
     gradient: "from-blue-500 to-cyan-600",
-    github: "https://github.com/HectorRiquelme/integraciones-crm",
+    github: "https://github.com/HectorRiquelme/crm-pipedrive-sheets-sync",
   },
   {
     id: 10,
@@ -208,7 +208,7 @@ export const projects = [
     ],
     stack: ["Python", "FastAPI", "React", "Vite", "SQLite", "wave"],
     gradient: "from-red-500 to-rose-600",
-    github: "https://github.com/HectorRiquelme/bots-ia",
+    github: "https://github.com/HectorRiquelme/ia-bot-cobranza-voz",
   },
   {
     id: 11,
@@ -228,7 +228,7 @@ export const projects = [
     ],
     stack: ["Node.js", "Express", "React", "SQLite", "better-sqlite3"],
     gradient: "from-green-600 to-green-800",
-    github: "https://github.com/HectorRiquelme/bots-ia",
+    github: "https://github.com/HectorRiquelme/ia-chatbot-whatsapp-pyme",
   },
   {
     id: 12,
@@ -248,7 +248,7 @@ export const projects = [
     ],
     stack: ["Next.js 14", "TypeScript", "Supabase", "jsPDF", "TailwindCSS"],
     gradient: "from-amber-500 to-yellow-600",
-    github: "https://github.com/HectorRiquelme/bots-ia",
+    github: "https://github.com/HectorRiquelme/ia-cotizaciones-construccion",
   },
   {
     id: 13,
@@ -268,7 +268,7 @@ export const projects = [
     ],
     stack: ["PHP", "WordPress", "Docker", "jQuery", "CSS", "Bash"],
     gradient: "from-slate-500 to-slate-700",
-    github: "https://github.com/HectorRiquelme/wordpress-fixes",
+    github: "https://github.com/HectorRiquelme/wordpress-diagnostico-carrusel",
   },
   {
     id: 14,
@@ -288,7 +288,7 @@ export const projects = [
     ],
     stack: ["PHP", "WordPress", "WooCommerce", "Nginx", "Redis", "Docker", "Bash"],
     gradient: "from-yellow-500 to-orange-600",
-    github: "https://github.com/HectorRiquelme/wordpress-fixes",
+    github: "https://github.com/HectorRiquelme/wordpress-optimizacion-rendimiento",
   },
   {
     id: 15,
@@ -308,6 +308,6 @@ export const projects = [
     ],
     stack: ["Bash", "PHP", "WordPress", "Docker", "WP-CLI", "MySQL"],
     gradient: "from-indigo-500 to-violet-600",
-    github: "https://github.com/HectorRiquelme/wordpress-fixes",
+    github: "https://github.com/HectorRiquelme/wordpress-toolkit-migracion",
   },
 ];
